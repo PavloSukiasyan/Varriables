@@ -11,8 +11,8 @@ using namespace std;
 
 int main() {
 
-	int numberCats = 5;
-	int numberDogs = 7;
+	int numberCats = 7;
+	int numberDogs = 9;
 	int numberAnimals = numberCats + numberDogs;
 
 	cout << "Number of cats: " << numberCats << endl;
